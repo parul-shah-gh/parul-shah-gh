@@ -32,7 +32,7 @@ Here to build better teams, learn to write cleaner code, and maybe one day debug
 <h3>🧠 Belief</h3>
 
 <p>
-<b>Great products are built by great people</b> — and a little bit of Python 🐍
+<b>Great products are built by great people</b>, and a little bit of Python 🐍
 </p>
 
 ---
